@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shitharth
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shitharth Selvarajan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shitharth
+last_name: Selvarajan
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer in Cyber Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science and Engineering
+      institution: Anna University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: ME in Computer Science and Engineering
+      institution: Anna University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BE in Computer Science and Engineering
+      institution: Anna University
       year: 2008
 
 # Skills
@@ -96,13 +96,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/shitharth
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=shitharth
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Shitharth did his doctorate in the security of SCADA network Security- A critical Infrastructure system. His works have been published by reputed publishers like IEEE, ACM, Elsevier, Springer, IET, Polytechnica, Wiley, Bentham Science, Taylor & Francis, MDPI, Hindawi etc., He has also presented his research findings at highly rated IEEE conferences. He has been involved in multiple funded projects from different nations including, Ministry of Education - Ethiopia and the MoE - Saudi Arabia. He has four published patents. On the whole, he is a young passionate driven researcher full of aspirations.
 {style="text-align: justify;"}
