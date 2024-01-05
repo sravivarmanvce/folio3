@@ -101,12 +101,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=oEx_iL8AAAAJ
-  - icon: github
+  - icon: orcid
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0002-4931-724X
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-shitharth-s-73457b166/
