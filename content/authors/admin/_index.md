@@ -38,15 +38,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science and Engineering
+    - course: Post Doc in AI Security
+      institution: University of Essex
+      year: 2021
+	- course: PhD in Computer Science and Engineering
       institution: Anna University
-      year: 2012
+      year: 2017
     - course: ME in Computer Science and Engineering
-      institution: Anna University
-      year: 2009
-    - course: BE in Computer Science and Engineering
-      institution: Anna University
-      year: 2008
+      institution: Thiagarajar College of Engineering
+      year: 2015
+    - course: B.Tech in Computer Science and Engineering
+      institution: KGiSL Institute of Technology
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -95,7 +98,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:S.Selvarajan@leedsbeckett.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/shitharth
