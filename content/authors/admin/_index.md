@@ -32,7 +32,8 @@ interests:
   - Cyber Security
   - Blockchain
   - Critical Infrastructure & Systems
-  - Network Security & Ethical Hacking
+  - Network Security 
+  - Ethical Hacking
 
 # Education to show in About widget
 education:
