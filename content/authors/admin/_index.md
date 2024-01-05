@@ -21,17 +21,18 @@ role: Lecturer in Cyber Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Leeds Beckett University
+    url: https://www.leedsbeckett.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include  Cyber Security, Blockchain, Critical Infrastructure & Systems, Network Security & Ethical Hacking.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber Security
+  - Blockchain
+  - Critical Infrastructure & Systems
+  - Network Security & Ethical Hacking
 
 # Education to show in About widget
 education:
@@ -102,13 +103,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=shitharth
+    link: https://scholar.google.com/citations?hl=en&user=oEx_iL8AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dr-shitharth-s-73457b166/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +121,7 @@ social:
 highlight_name: true
 ---
 
-Dr Shitharth did his doctorate in the security of SCADA network Security- A critical Infrastructure system. His works have been published by reputed publishers like IEEE, ACM, Elsevier, Springer, IET, Polytechnica, Wiley, Bentham Science, Taylor & Francis, MDPI, Hindawi etc., He has also presented his research findings at highly rated IEEE conferences. He has been involved in multiple funded projects from different nations including, Ministry of Education - Ethiopia and the MoE - Saudi Arabia. He has four published patents. On the whole, he is a young passionate driven researcher full of aspirations.
+Dr Shitharth completed his PhD in the Department of Computer Science & Engineering, Anna University. He completed his Postdoc at The University of Essex, Colchester, UK. He has worked in various institutions and has seven years of teaching experience.
+
+Dr Shitharth working as a lecturer in cyber security at Leeds Beckett University, Leeds, UK. He has published in more than 100 International Journals and 20 International & National conferences. He has published four patents in IPR. He is also an active member of IEEE Computer Society and five more professional bodies. He is also a member of the International Blockchain organization. He is a certified hyperledger expert and certified blockchain developer. His current research interests include Cyber Security, Blockchain, Critical Infrastructure & Systems, Network Security & Ethical Hacking. He is an active researcher, reviewer and editor for many international journals.
 {style="text-align: justify;"}
