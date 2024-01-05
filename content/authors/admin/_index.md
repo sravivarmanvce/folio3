@@ -39,11 +39,16 @@ interests:
 education:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	courses:
 	- course: Post Doc in AI Security
       institution: University of Essex
       year: 2021
 	- course: PhD in Computer Science and Engineering
+=======
+  courses:
+    - course: PhD in Computer Science and Engineering
+>>>>>>> parent of 800b09c (Update _index.md)
 =======
   courses:
     - course: PhD in Computer Science and Engineering
