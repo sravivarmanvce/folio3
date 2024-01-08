@@ -100,7 +100,7 @@ sections:
           date_end: '2018-12-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '4'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
