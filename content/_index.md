@@ -69,12 +69,12 @@ sections:
           location: England
           date_start: '2023-10-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Associate Professor
           company: Kebri Dehar University
           company_url: ''
@@ -82,7 +82,7 @@ sections:
           location: Ethiopia
           date_start: '2021-11-01'
           date_end: '2023-10-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          # description: Taught electronic engineering and researched semiconductor physics.
         - title: Assistant Professor
           company: Vardhaman College of Engineering
           company_url: ''
@@ -90,7 +90,7 @@ sections:
           location: Hyderabad, India
           date_start: '2019-01-01'
           date_end: '2021-11-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          # description: Taught electronic engineering and researched semiconductor physics.
         - title: Assistant Professor
           company: Aurora's Scientific Technological And Research Academy
           company_url: ''
