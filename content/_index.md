@@ -81,7 +81,7 @@ sections:
           company_logo: kebri
           location: Ethiopia
           date_start: '2021-11-01'
-          date_end: '2023-10-31'
+          date_end: '2023-10-30'
           description: Taught electronic engineering and researched semiconductor physics.
         - title: Assistant Professor
           company: Vardhaman College of Engineering
@@ -89,7 +89,7 @@ sections:
           company_logo: vardhaman
           location: Hyderabad, India
           date_start: '2019-01-01'
-          date_end: '2021-11-31'
+          date_end: '2021-11-30'
           description: Taught electronic engineering and researched semiconductor physics.
         - title: Assistant Professor
           company: Aurora's Scientific Technological And Research Academy
@@ -97,10 +97,10 @@ sections:
           company_logo: aurora
           location: Hyderabad, India
           date_start: '2017-01-01'
-          date_end: '2018-12-31'
+          date_end: '2018-12-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '4'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
