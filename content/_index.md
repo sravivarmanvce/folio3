@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Lecturer
+          company: Leeds Beckett University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: leeds
+          location: England
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,13 +75,29 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Associate Professor
+          company: Kebri Dehar University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: kebri
+          location: Ethiopia
+          date_start: '2021-11-01'
+          date_end: '2023-10-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Assistant Professor
+          company: Vardhaman College of Engineering
+          company_url: ''
+          company_logo: vardhaman
+          location: Hyderabad, India
+          date_start: '2019-01-01'
+          date_end: '2021-11-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Assistant Professor
+          company: Aurora's Scientific Technological And Research Academy
+          company_url: ''
+          company_logo: aurora
+          location: Hyderabad, India
+          date_start: '2017-01-01'
+          date_end: '2018-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
