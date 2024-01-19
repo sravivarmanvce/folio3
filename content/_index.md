@@ -43,15 +43,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
-    id: roles
-    content:
-      title: Roles and Responsibilities
-#      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      columns: '2'
-
   - block: skills
     id: skills
     content:
@@ -61,6 +52,23 @@ sections:
       username: admin
     design:
       columns: '1'
+
+  - block: markdown
+    id: roles
+    content:
+      title: Roles and Responsibilities
+#      subtitle: A subtitle
+      text: |2-
+	        - Handling academic Classes, Handling Lab Sessions
+            - Project Coordinator, Class Coordinator
+            - Student Councillor
+            - Technical Seminar Coordinator, Comprehensive Viva Coordinator
+            - Course lead - Cyber Security
+            - Curriculum Developer - Blockchain Technology
+            - Project Guide for B.S, M.S, PhD students
+    design:
+      columns: '2'
+
   - block: experience
     id: experience
     content:
