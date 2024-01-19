@@ -42,6 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: markdown
+    id: roles
+    content:
+      title: Roles and Responsibilities
+#      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
   - block: skills
     id: skills
     content:
