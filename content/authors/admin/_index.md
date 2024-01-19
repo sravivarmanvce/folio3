@@ -30,10 +30,11 @@ bio: My research interests include  Cyber Security, Blockchain, Critical Infrast
 # Interests to show in About widget
 interests:
   - Cyber Security
-  - Blockchain
+  - Blockchain Technology
   - Critical Infrastructure & Systems
   - Network Security 
   - Ethical Hacking
+  - Cloud Computing
 
 # Education to show in About widget
 education:
@@ -43,13 +44,16 @@ education:
       year: 2021
     - course: PhD in Computer Science and Engineering
       institution: Anna University
-      year: 2012
+      year: 2018
+    - course: Master of Business Administration (MBA) (Education Management - DE)
+      institution: Alagappa University
+      year: 2016
     - course: ME in Computer Science and Engineering
       institution: Anna University
-      year: 2009
-    - course: BE in Computer Science and Engineering
+      year: 2014
+    - course: B.Tech in Infomration Technology
       institution: Anna University
-      year: 2008
+      year: 2012
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
