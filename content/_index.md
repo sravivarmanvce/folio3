@@ -57,13 +57,14 @@ sections:
     id: roles
     content:
       title: Roles and Responsibilities
-      text: Handling academic Classes, Handling Lab Sessions
-            Project Coordinator, Class Coordinator
-            Student Councillor
-            Technical Seminar Coordinator, Comprehensive Viva Coordinator
-            Course lead - Cyber Security
-            Curriculum Developer - Blockchain Technology
-            Project Guide for B.S, M.S, PhD students
+      text: |2- 
+	    Handling academic Classes, Handling Lab Sessions
+        Project Coordinator, Class Coordinator
+        Student Councillor
+        Technical Seminar Coordinator, Comprehensive Viva Coordinator
+        Course lead - Cyber Security
+        Curriculum Developer - Blockchain Technology
+        Project Guide for B.S, M.S, PhD students
     design:
       columns: '2'
 
@@ -78,7 +79,7 @@ sections:
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      #   Begin multi-line descriptions with YAML's `` multi-line prefix.
       items:
         - title: Lecturer
           company: Leeds Beckett University
