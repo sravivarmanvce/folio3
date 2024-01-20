@@ -58,7 +58,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-#  - name: Technical
+  - name: Technical
     items:
       - name: Python
         description: ''
@@ -70,7 +70,7 @@ skills:
         percent: 100
         icon: shield-alt
         icon_pack: fas
-#  - name: Hobbies
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
