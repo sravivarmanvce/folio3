@@ -275,7 +275,7 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: S.Selvarajan@leedsbeckett.ac.uk
-      phone: +91 80566 09925
+      phone: 0113 812 0000
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
@@ -290,8 +290,8 @@ sections:
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '53.80363866717513'
+        longitude: '-1.5480438512914823'  
       contact_links:
         - icon: twitter
           icon_pack: fab
