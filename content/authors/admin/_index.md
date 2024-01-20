@@ -58,7 +58,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: 
     items:
       - name: Python
         description: ''
@@ -67,21 +67,21 @@ skills:
         icon_pack: fab
       - name: Cyber Tools
         description: ''
-        percent: 100
+        percent: 90
         icon: shield-alt
         icon_pack: fas
-  - name: Hobbies
+  - name: 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Blockchain
         description: ''
-        percent: 60
+        percent: 80
         icon: project-diagram
         icon_pack: fas
       - name: Hyper-ledger
         description: ''
-        percent: 100
+        percent: 80
         icon: atom
         icon_pack: fas
 
