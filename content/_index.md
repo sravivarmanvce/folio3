@@ -58,7 +58,7 @@ sections:
     content:
       title: Roles and Responsibilities
       text: |2- 
-	    Handling academic Classes, Handling Lab Sessions
+        Handling academic Classes, Handling Lab Sessions
         Project Coordinator, Class Coordinator
         Student Councillor
         Technical Seminar Coordinator, Comprehensive Viva Coordinator
