@@ -57,13 +57,13 @@ sections:
     id: roles
     content:
       title: Roles and Responsibilities
-      text: ### Handling academic Classes, Handling Lab Sessions
-            ### Project Coordinator, Class Coordinator
-            ### Student Councillor
-            ### Technical Seminar Coordinator, Comprehensive Viva Coordinator
-            ### Course lead - Cyber Security
-            ### Curriculum Developer - Blockchain Technology
-            ## Project Guide for B.S, M.S, PhD students
+      text: Handling academic Classes, Handling Lab Sessions
+            Project Coordinator, Class Coordinator
+            Student Councillor
+            Technical Seminar Coordinator, Comprehensive Viva Coordinator
+            Course lead - Cyber Security
+            Curriculum Developer - Blockchain Technology
+            Project Guide for B.S, M.S, PhD students
     design:
       columns: '2'
 
