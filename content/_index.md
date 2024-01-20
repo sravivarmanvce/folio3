@@ -120,11 +120,11 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: Accomplishments
+  - block: achievements
     id: achievements
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Achievements'
+      title: 'Certifications'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -134,14 +134,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: ''
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: 
+          organization: 
+          organization_url: 
+          title: CeH V10 – Certified Ethical Hacker
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
