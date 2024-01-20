@@ -136,10 +136,10 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: ''
+          date_start: ' '
           description: ''
           icon: 
-          organization: 
+          organization:  
           organization_url: 
           title: CeH V10 – Certified Ethical Hacker
           url: ''
