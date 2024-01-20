@@ -278,12 +278,12 @@ sections:
       phone: 0113 812 0000
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: City Campus
+        city: Leeds
+        region: West Yorkshire
+        postcode: 'LS1 3HE'
+        country: United Lingdom
+        country_code: UK
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
