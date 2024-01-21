@@ -86,7 +86,7 @@ sections:
           company_url: ''
           company_logo: leeds
           location: England
-          date_start: '2023-10-01'
+          date_start: '2023-09-01'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
@@ -94,6 +94,14 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
+        - title: Postdoc Researcher
+          company: University of Essex
+          company_url: ''
+          company_logo: essex
+          location: England
+          date_start: '2022-03-01'
+          date_end: '2023-05-30'
+          # description: Taught electronic engineering and researched semiconductor physics.
         - title: Associate Professor
           company: Kebri Dehar University
           company_url: ''
@@ -108,18 +116,35 @@ sections:
           company_logo: vardhaman
           location: Hyderabad, India
           date_start: '2019-01-01'
-          date_end: '2021-11-30'
+          date_end: '2021-10-30'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Assistant Professor
           company: Aurora's Scientific Technological And Research Academy
           company_url: ''
           company_logo: aurora
           location: Hyderabad, India
-          date_start: '2017-01-01'
-          date_end: '2018-12-30'
+          date_start: '2017-02-01'
+          date_end: '2018-11-30'
           # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Fellow
+          company: Kamaraj College of Engineering & Technology - Anna University
+          company_url: ''
+          company_logo: kamaraj
+          location: Tamilnadu, India
+          date_start: '2015-01-01'
+          date_end: '2017-17-30'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: R & D Assist
+          company: RL Global Solutions
+          company_url: ''
+          company_logo: rlgs
+          location: Tamilnadu, India
+          date_start: '2015-01-01'
+          date_end: '2017-17-30'
+          # description: Taught electronic engineering and researched semiconductor physics.		  
     design:
       columns: '2'
+
   - block: accomplishments
     id: certifications
     content:
