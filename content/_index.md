@@ -132,7 +132,7 @@ sections:
           company_logo: kamaraj
           location: Tamilnadu, India
           date_start: '2015-01-01'
-          date_end: '2017-17-30'
+          date_end: '2017-02-27'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: R & D Assist
           company: RL Global Solutions
@@ -140,7 +140,7 @@ sections:
           company_logo: rlgs
           location: Tamilnadu, India
           date_start: '2015-01-01'
-          date_end: '2017-17-30'
+          date_end: '2017-02-27'
           # description: Taught electronic engineering and researched semiconductor physics.		  
     design:
       columns: '2'
