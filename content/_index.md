@@ -276,7 +276,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: S.Selvarajan@leedsbeckett.ac.uk
       phone: 0113 812 0000
-      appointment_url: 'https://calendly.com'
+#      appointment_url: 'https://calendly.com'
       address:
         street: City Campus
         city: Leeds
@@ -293,10 +293,10 @@ sections:
         latitude: '53.80363866717513'
         longitude: '-1.5480438512914823'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
         - icon: skype
           icon_pack: fab
           name: Skype Me
