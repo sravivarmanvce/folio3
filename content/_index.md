@@ -145,49 +145,76 @@ sections:
     design:
       columns: '2'
 
-  - block: accomplishments
-    id: certifications
+  - block: markdown
+    id: achievements
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certifications'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 
-          date_end: ''
-          date_start: '2021-01-01'
-          description: ''
-          icon: 
-          organization: CeH V10
-          organization_url: 
-          title: CeH V10 – Certified Ethical Hacker
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+      title: Achievements and Accomplishments
+      text: |2- 
+        * Recognised PhD Supervisor – Leeds Beckett University
+        * Acting as PhD Co-supervisor – Annamalai University, Tamilnadu, India
+        * Acting as PhD Co-supervisor – Symbiosis University, Pune, India
+        * Ambassador of Bentham Science
+         * Academic Editor of PLOS ONE
+        * Associate Editor for Frontiers in Computer Science
+        * Associate Editor for Frontiers in ICT
+        * Associate Editor for Frontiers in Blockchain Technologies
+        * Review Editor for Frontiers in Communication and Network 
+        * Review Editor for  Frontiers IoT 
+        * Member, Research Advisory Board, Kamaraj College of Engineering and Technology, Virudhunagar.
+        * Acted as Thesis Evaluator- Anna University, Prist University.
+        * Presented lot of lectures on “Motivational Thought Process” in many schools and colleges.
+        * Conducted self-motivation programmes among staff members and students.
+        * Been as a Student Councillor for two years.
+        * Acted as a Review Panel member for Toycathon - MHRD Innovation Cell, Indian Govt.
+        * Certified from Google Cloud for completing google qwiklabs cloud training.
+        * Appointed as an Audit Committee member for Internal College Auditing in Vardhaman College of Engineering.
+        * Delivered a lecture as a guest speaker on “Attacks on OSI layer” held on 28-Jan-2018 at Centre for Cyber Security, Vardhaman College of Engineering.
+        * Cleared NPTEL exam on “Cloud Computing” (NPTEL ID - NPTEL18CS16S2390604).
+        * Got C1/4+ grade (Advanced Skill), in English Writing Test conducted by University Of Cambridge.
+        * Got C2/5+ grade (Very Advanced Skill), in English Writing Test conducted by University Of Cambridge.
+        * Award of Achievement in successfully completing the Oracle Database 10G: Program with PL/SQL in KG
+        * Information System Private Limited, Coimbatore.
+        * Award of Achievement in successfully completing the Oracle Database 9i: Introduction to SQL in KG
+        * Information System Private Limited, Coimbatore.
+        * Acted as an Event Organizer Head in “ARISTA – 2K12” Technical Symposium conducted by KGISL Institute of Technology, Coimbatore.
     design:
       columns: '2'
+
+#  - block: accomplishments
+#    id: certifications
+#    content:
+#      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#      title: 'Certifications'
+#      subtitle:
+#      # Date format: https://docs.hugoblox.com/customization/#date-format
+#      date_format: Jan 2006
+#      # Accomplishments.
+#      #   Add/remove as many `item` blocks below as you like.
+#      #   `title`, `organization`, and `date_start` are the required parameters.
+#      #   Leave other parameters empty if not required.
+#      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#      items:
+#        - certificate_url: 
+#          date_end: ''
+#          date_start: '2021-01-01'
+#          description: ''
+#          icon: 
+#          organization: CeH V10
+#          organization_url: 
+#          title: CeH V10 – Certified Ethical Hacker
+#          url: ''
+#        - certificate_url: https://www.edx.org
+#          date_end: ''
+#          date_start: '2021-01-01'
+#          description: Formulated informed blockchain models, hypotheses, and use cases.
+#          icon: edx
+#          organization: edX
+#          organization_url: https://www.edx.org
+#          title: Blockchain Fundamentals
+#          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    design:
+#      columns: '2'
+
 #  - block: collection
 #    id: posts
 #    content:
