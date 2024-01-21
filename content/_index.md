@@ -148,13 +148,13 @@ sections:
   - block: markdown
     id: achievements
     content:
-      title: Achievements and Accomplishments
+      title: Achievements
       text: |2- 
         * Recognised PhD Supervisor – Leeds Beckett University
         * Acting as PhD Co-supervisor – Annamalai University, Tamilnadu, India
         * Acting as PhD Co-supervisor – Symbiosis University, Pune, India
         * Ambassador of Bentham Science
-         * Academic Editor of PLOS ONE
+        * Academic Editor of PLOS ONE
         * Associate Editor for Frontiers in Computer Science
         * Associate Editor for Frontiers in ICT
         * Associate Editor for Frontiers in Blockchain Technologies
