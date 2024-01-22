@@ -5,6 +5,8 @@ date: 2024-01-22
 type: landing
 
 sections:
+  - block: hero
+    content:
     design:
       background:
         gradient_end: '#1976d2'
