@@ -372,11 +372,11 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me - shitharth selvarajan
-          link: 'skype.com'
+          link: 'https://www.skype.com'
         - icon: video
           icon_pack: fas
           name: Zoom Me - shitharth.it@gmail.com
-          link: 'zoom.com'
+          link: 'https://www.zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
