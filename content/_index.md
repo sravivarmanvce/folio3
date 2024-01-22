@@ -330,15 +330,15 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="certificates" >}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    id: gallery
+#    content:
+#      title: Gallery
+#      subtitle: ''
+#      text: |-
+#        {{< gallery album="certificates" >}}
+#    design:
+#      columns: '1'
   - block: contact
     id: contact
     content:
