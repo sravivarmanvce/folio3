@@ -336,7 +336,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="certificates" resize_options="250x250" >}}
     design:
       columns: '1'
   - block: contact
