@@ -180,6 +180,27 @@ sections:
     design:
       columns: '2'
 
+  - block: markdown
+    id: certifications
+    content:
+      title: Certifications
+      text: |2- 
+        * CeH V10 – Certified Ethical Hacker
+        * Certified Blockchain Expert
+        * Certified Hyper ledger Expert
+        * Certified Cloud Security (Pursuing)
+        * Certified Forensic Investigator (P)
+        * Certified Network Defender (P)
+        * CISM – Certified Information Security Manager (Training Course)
+        * CISSP - Certified Information System Security Professional (Training Course)
+        * CISA - Certified Information Systems Auditor (Training Course)
+        * CSP – Certified Cloud Security Professional (Training Course)
+        * CompTIA Security+ 501 (Training)
+        * AWS Cloud Architect
+        * Google Cloud Certified
+    design:
+      columns: '2'
+
 #  - block: accomplishments
 #    id: certifications
 #    content:
