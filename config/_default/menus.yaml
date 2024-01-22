@@ -23,7 +23,7 @@ main:
     url: '#featured'
     weight: 60
   - name: Gallery
-    url: '#gallery'
+    url: './gallery/'
     weight: 70
   - name: Contact
     url: '#contact'
