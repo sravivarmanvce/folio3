@@ -1,12 +1,10 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-22
 type: landing
 
 sections:
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
     design:
       background:
         gradient_end: '#1976d2'
