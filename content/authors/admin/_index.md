@@ -92,13 +92,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/shitharth
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: '#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/shitharth
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=oEx_iL8AAAAJ
