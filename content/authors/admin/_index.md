@@ -39,9 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Post Doc in AI Security
-      institution: University of Essex
-      year: 2021
+#    - course: Post Doc in AI Security
+#      institution: University of Essex
+#      year: 2021
     - course: PhD in Computer Science and Engineering
       institution: Anna University
       year: 2018
