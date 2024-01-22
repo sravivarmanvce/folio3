@@ -1,6 +1,6 @@
 ---
 title: My page
-type: landing
+#type: landing
 
 sections:
   - block: markdown
