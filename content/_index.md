@@ -336,7 +336,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="certificates" resize_options="250x250" >}}
+        {{< gallery album="certificates" resize_options="100x100" >}}
     design:
       columns: '1'
   - block: contact
@@ -348,19 +348,18 @@ sections:
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: S.Selvarajan@leedsbeckett.ac.uk
-      phone: 0113 812 0000
+#      phone: 0113 812 0000
 #      appointment_url: 'https://calendly.com'
       address:
-        street: City Campus
+        street: Headingley
         city: Leeds
         region: West Yorkshire
         postcode: 'LS1 3HE'
         country: United Lingdom
         country_code: UK
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 10:00 to 16:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '53.80363866717513'
@@ -373,11 +372,11 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'shitharth selvarajan'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'shitharth.it@gmail.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
