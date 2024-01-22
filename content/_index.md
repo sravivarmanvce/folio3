@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
+	text:
     design:
       background:
         gradient_end: '#1976d2'
