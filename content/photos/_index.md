@@ -1,12 +1,12 @@
 ---
-title: Gallery
+title: Photos
 type: landing
 
 sections:
   - block: markdown
-    id: gallery
+    id: photos
     content:
-      title: Gallery
+      title: Photos
       subtitle: ''
       text: |-
         {{< gallery album="certificates" >}}
