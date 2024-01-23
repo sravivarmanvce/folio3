@@ -5,7 +5,7 @@ authors:
 - M. V. V. Prasad Kantipudi
 - N. S. Pradeep Kumar
 - Rajanikanth Aluvalu
-- Shitharth Selvarajan
+- admin
 - K. Kotecha
 date: '2024-01-01'
 publishDate: '2024-01-23T10:38:52.814326Z'

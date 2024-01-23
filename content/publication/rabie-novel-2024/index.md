@@ -3,7 +3,7 @@ title: A novel IoT intrusion detection framework using Decisive Red Fox optimiza
   and descriptive back propagated radial basis function models
 authors:
 - Osama Bassam J. Rabie
-- Shitharth Selvarajan
+- admin
 - Tawfiq Hasanin
 - Abdulrhman M. Alshareef
 - C. K. Yogesh
