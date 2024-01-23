@@ -47,8 +47,7 @@ sections:
     id: activities
     content:
       title: Publications & Academic Activities
-      text: |2- 
-        
+      text:         
 		| Left-aligned | Center-aligned | Right-aligned |
         | :---         |     :---:      |          ---: |
         | git status   | git status     | git status    |
