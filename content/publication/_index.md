@@ -21,8 +21,8 @@ sections:
       title: Publications
 #      subtitle: A subtitle
       text:
-          | Patent Published | Books Edited | International Journal | International Conferences | National Conferences | Workshops Attended |
-          |:----------------:|:------------:|:---------------------:|:-------------------------:|:--------------------:|:------------------:|
-          |         4        |       2      |           85          |             20            |           2          |          9         |
+        | Patent Published | Books Edited | International Journal | International Conferences | National Conferences | Workshops Attended |
+        |:----------------:|:------------:|:---------------------:|:-------------------------:|:--------------------:|:------------------:|
+        |         4        |       2      |           85          |             20            |           2          |          9         |
 
 ---
