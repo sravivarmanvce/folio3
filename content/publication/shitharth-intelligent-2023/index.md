@@ -2,7 +2,7 @@
 title: Intelligent Intrusion Detection Algorithm Based on Multi-Attack for Edge-Assisted
   Internet of Things
 authors:
-- S. Shitharth
+- admin
 - Gouse Baig Mohammed
 - Jayaraj Ramasamy
 - R. Srivel

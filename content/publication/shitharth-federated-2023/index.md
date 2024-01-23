@@ -2,7 +2,7 @@
 title: 'Federated learning optimization: A computational blockchain process with offloading
   analysis to enhance security'
 authors:
-- Selvarajan Shitharth
+- admin
 - Hariprasath Manoharan
 - Achyut Shankar
 - Rakan A. Alsowail

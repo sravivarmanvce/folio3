@@ -2,7 +2,7 @@
 title: A security model for smart grid SCADA systems using stochastic neural network
 authors:
 - Osama Bassam J. Rabie
-- Shitharth Selvarajan
+- admin
 - Daniyal Alghazzawi
 - Abhishek Kumar
 - Syed Hasan

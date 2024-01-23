@@ -2,7 +2,7 @@
 title: A comparative recognition research on excretory organism in medical applications
   using artificial neural networks
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Celestine Iwendi
 - Rakan A. Alsowail

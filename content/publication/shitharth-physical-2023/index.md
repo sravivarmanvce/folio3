@@ -2,7 +2,7 @@
 title: Physical Stint Virtual Representation of Biomedical Signals With Wireless Sensors
   Using Swarm Intelligence Optimization Algorithm
 authors:
-- S. Shitharth
+- admin
 - Saud Yonbawi
 - Hariprasath Manoharan
 - Sultan Alahmari

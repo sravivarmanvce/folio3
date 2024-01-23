@@ -7,7 +7,7 @@ authors:
 - Rajkumar Singh Rathore
 - Rutvij H. Jhaveri
 - Diptendu Sinha Roy
-- Shitharth Selvarajan
+- admin
 date: '2023-01-01'
 publishDate: '2024-01-23T11:26:30.235033Z'
 publication_types:

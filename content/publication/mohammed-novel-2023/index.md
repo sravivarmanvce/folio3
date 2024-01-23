@@ -3,7 +3,7 @@ title: A Novel Trust Evaluation and Reputation Data Management Based Security Sy
   Model for Mobile Edge Computing Network
 authors:
 - Gouse Baig Mohammed
-- S. Shitharth
+- admin
 - G. Sucharitha
 date: '2023-01-01'
 publishDate: '2024-01-23T11:26:30.295592Z'

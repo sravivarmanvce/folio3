@@ -3,7 +3,7 @@ title: 'From Hype to Reality: Unveiling the Promises, Challenges and Opportuniti
   of Blockchain in Supply Chain Systems'
 authors:
 - Muen Uddin
-- Shitharth Selvarajan
+- admin
 - Muath Obaidat
 - Shams Ul Arfeen
 - Alaa O. Khadidos

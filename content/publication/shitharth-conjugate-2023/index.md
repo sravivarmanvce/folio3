@@ -2,7 +2,7 @@
 title: A conjugate self-organizing migration (CSOM) and reconciliate multi-agent Markov
   learning (RMML) based cyborg intelligence mechanism for smart city security
 authors:
-- S. Shitharth
+- admin
 - Abdulrhman M. Alshareef
 - Adil O. Khadidos
 - Khaled H. Alyoubi

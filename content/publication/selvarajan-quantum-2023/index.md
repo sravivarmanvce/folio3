@@ -2,7 +2,7 @@
 title: A quantum trust and consultative transaction-based blockchain cybersecurity
   model for healthcare systems
 authors:
-- Shitharth Selvarajan
+- admin
 - Haralambos Mouratidis
 date: '2023-05-01'
 publishDate: '2024-01-23T11:26:30.348210Z'

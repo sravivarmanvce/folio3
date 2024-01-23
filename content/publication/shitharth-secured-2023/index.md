@@ -2,7 +2,7 @@
 title: Secured data transmissions in corporeal unmanned device to device using machine
   learning algorithm
 authors:
-- S. Shitharth
+- admin
 - Saud Yonbawi
 - Hariprasath Manoharan
 - Achyut Shankar

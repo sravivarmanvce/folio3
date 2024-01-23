@@ -2,7 +2,7 @@
 title: An artificial intelligence lightweight blockchain security model for security
   and privacy in IIoT systems
 authors:
-- Shitharth Selvarajan
+- admin
 - Gautam Srivastava
 - Alaa O. Khadidos
 - Adil O. Khadidos

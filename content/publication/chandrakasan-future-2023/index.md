@@ -5,7 +5,7 @@ authors:
 - Bharanidharan Chandrakasan
 - Malathi Subramanian
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Rajanikanth Aluvalu
 date: '2023-08-01'
 publishDate: '2024-01-23T11:26:30.445402Z'

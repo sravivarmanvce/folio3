@@ -2,7 +2,7 @@
 title: Improved Security for Multimedia Data Visualization Using Hierarchical Clustering
   Algorithm
 authors:
-- Shitharth S.
+- admin
 - Hariprasath Manoharan
 - Alaa O. Khadidos
 - Achyut Shankar

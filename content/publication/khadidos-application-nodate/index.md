@@ -6,7 +6,7 @@ authors:
 - Abdulrhman M. Alshareef
 - Hariprasath Manoharan
 - Alaa O. Khadidos
-- Shitharth Shitharth
+- admin
 date: -01-01
 publishDate: '2024-01-23T11:26:30.355860Z'
 publication_types:

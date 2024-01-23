@@ -4,7 +4,7 @@ title: 'Implementation of Internet of Things With Blockchain Using Machine Learn
 authors:
 - Hariprasath Manoharan
 - Abirami Manoharan
-- Shitharth Selvarajan
+- admin
 - K. Venkatachalam
 date: '2023-04-01'
 publishDate: '2024-01-23T11:26:30.438083Z'

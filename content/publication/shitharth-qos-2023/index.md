@@ -2,7 +2,7 @@
 title: QoS enhancement in wireless ad hoc networks using resource commutable clustering
   and scheduling
 authors:
-- S. Shitharth
+- admin
 - Hariprasath Manoharan
 - Rakan A. Alsowail
 - Achyut Shankar

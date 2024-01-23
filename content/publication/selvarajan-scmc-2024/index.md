@@ -2,7 +2,7 @@
 title: 'SCMC: Smart city measurement and control process for data security with data
   mining algorithms'
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Sonali Goel
 - Chiranjeevi Prakash Akili

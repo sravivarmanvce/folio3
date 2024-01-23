@@ -2,7 +2,7 @@
 title: 'RLIS: Resource Limited Improved Security Beyond Fifth-Generation Networks
   Using Deep Learning Algorithms'
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Alaa O. Khadidos
 - Achyut Shankar

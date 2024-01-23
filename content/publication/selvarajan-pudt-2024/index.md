@@ -2,7 +2,7 @@
 title: 'PUDT: Plummeting uncertainties in digital twins for aerospace applications
   using deep learning algorithms'
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Achyut Shankar
 - Alaa O. Khadidos

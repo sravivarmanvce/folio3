@@ -3,7 +3,7 @@ title: Connotation of fuzzy logic system in Underwater communication systems for
   applications with data indulgence route
 authors:
 - Khaled H. Alyoubi
-- S. Shitharth
+- admin
 - Hariprasath Manoharan
 - Adil O. Khadidos
 - Alaa O. Khadidos

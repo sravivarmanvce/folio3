@@ -4,7 +4,7 @@ title: A full privacy-preserving distributed batch-based certificate-less aggreg
   networks  (HWMSNs)
 authors:
 - Osama Bassam J. Rabie
-- Shitharth Selvarajan
+- admin
 - Tawfiq Hasanin
 - Gouse Baig Mohammed
 - Abddulrhman M. Alshareef

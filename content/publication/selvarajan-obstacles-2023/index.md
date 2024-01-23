@@ -2,7 +2,7 @@
 title: Obstacles Uncovering System for Slender Pathways Using Unmanned Aerial Vehicles
   with Automatic Image Localization Technique
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Alaa O. Khadidos
 - Achyut Shankar

@@ -5,7 +5,7 @@ authors:
 - J. Godwin Ponsam
 - K. Nimala
 - Gousebaig Mohammad
-- S. Shitharth
+- admin
 - Vijaya Kumar Reddy Radha
 - B. Srinivasa Rao
 - K. Srihari

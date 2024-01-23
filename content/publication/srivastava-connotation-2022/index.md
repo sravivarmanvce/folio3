@@ -6,7 +6,7 @@ authors:
 - Hariprasath Manoharan
 - Thippa Reddy Gadekallu
 - Rutvij H. Jhaveri
-- Shitharth Selvarajan
+- admin
 - Ramana Kadiyala
 date: '2022-09-01'
 publishDate: '2024-01-23T11:26:30.408619Z'

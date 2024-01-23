@@ -5,7 +5,7 @@ authors:
 - Manoj Kumar
 - Anoop Kumar Patel
 - Mantosh Biswas
-- S. Shitharth
+- admin
 date: '2023-09-01'
 publishDate: '2024-01-23T11:26:30.257593Z'
 publication_types:

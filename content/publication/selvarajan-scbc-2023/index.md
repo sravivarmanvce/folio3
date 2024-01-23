@@ -2,7 +2,7 @@
 title: 'SCBC: Smart city monitoring with blockchain using Internet of Things for and
   neuro fuzzy procedures'
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Celestine Iwendi
 - Taher Al-Shehari

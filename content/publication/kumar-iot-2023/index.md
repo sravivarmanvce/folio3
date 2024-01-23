@@ -5,7 +5,7 @@ authors:
 - Abhishek Kumar
 - Swarn Avinash Kumar
 - Vishal Dutt
-- S. Shitharth
+- admin
 - Esha Tripathi
 date: '2023-01-01'
 publishDate: '2024-01-23T11:26:30.378437Z'

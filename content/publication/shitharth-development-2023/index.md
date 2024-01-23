@@ -2,7 +2,7 @@
 title: Development of edge computing and classification using The Internet of Things
   with incremental learning for object detection
 authors:
-- S. Shitharth
+- admin
 - Hariprasath Manoharan
 - Rakan A. Alsowail
 - Achyut Shankar

@@ -4,7 +4,7 @@ title: 'TasLA: An innovative Tasmanian and Lichtenberg optimized attention deep 
 authors:
 - Alaa O. Khadidos
 - Adil O. Khadidos
-- Shitharth Selvarajan
+- admin
 - Olfat M. Mirza
 date: '2023-09-01'
 publishDate: '2024-01-23T11:26:30.218489Z'

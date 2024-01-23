@@ -3,7 +3,7 @@ title: Diagnostic structure of visual robotic inundated systems with fuzzy clust
   membership correlation
 authors:
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Rajanikanth Aluvalu
 - Maha Abdelhaq
 - Raed Alsaqour

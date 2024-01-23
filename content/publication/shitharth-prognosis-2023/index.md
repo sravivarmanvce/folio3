@@ -2,7 +2,7 @@
 title: Prognosis of urban environs using time series analysis for preventing overexploitation
   using artificial intelligence
 authors:
-- S. Shitharth
+- admin
 - Hariprasath Manoharan
 - Lakshmi Narayanan
 - Takkedu Malathi

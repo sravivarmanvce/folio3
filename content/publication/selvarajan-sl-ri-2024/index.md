@@ -2,7 +2,7 @@
 title: 'SL-RI: Integration of supervised learning in robots for industry 5.0 automated
   application monitoring'
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Achyut Shankar
 date: '2024-02-01'
