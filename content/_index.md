@@ -42,19 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
-  - block: markdown
-    id: activities
-    content:
-      title: Publications & Academic Activities
-      text:         
-		| Left-aligned | Center-aligned | Right-aligned |
-        | :---         |     :---:      |          ---: |
-        | git status   | git status     | git status    |
-        | git diff     | git diff       | git diff      |
-    design:
-      columns: '1'
-
   - block: skills
     id: skills
     content:
