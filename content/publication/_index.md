@@ -16,7 +16,6 @@ banner:
 
 sections:
   - block: markdown
-    content:
       | Patent Published | Books Edited | International Journal | International Conferences | National Conferences | Workshops Attended |
       |:----------------:|:------------:|:---------------------:|:-------------------------:|:--------------------:|:------------------:|
       |         4        |       2      |           85          |             20            |           2          |          9         |
