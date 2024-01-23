@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shitharth
+title: Shitharth Selvarajan
 
 # Name pronunciation (optional)
 name_pronunciation: Shitharth Selvarajan
