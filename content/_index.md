@@ -301,6 +301,7 @@ sections:
 #      columns: '2'
 #      view: citation
   - block: collection
+    id: recent
     content:
       title: Recent Publications
       text: |-
