@@ -2,7 +2,7 @@
 title: Hyper spectral image classifications for monitoring harvests in agriculture
   using fly optimization algorithm
 authors:
-- Shitharth S
+- admin
 - Hariprasath Manoharan
 - Abdulrhman M. Alshareef
 - Ayman Yafoz

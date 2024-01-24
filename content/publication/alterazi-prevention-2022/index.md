@@ -5,7 +5,7 @@ authors:
 - Hassan A. Alterazi
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Nawaf Alhebaishi
 - Gautam Srivastava
 - Jerry Chun-Wei Lin

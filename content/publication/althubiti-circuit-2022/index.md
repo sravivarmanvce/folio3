@@ -3,7 +3,7 @@ title: Circuit Manufacturing Defect Detection Using VGG16 Convolutional Neural N
 authors:
 - Sara A. Althubiti
 - Fayadh Alenezi
-- S. Shitharth
+- admin
 - Sangeetha K.
 - Chennareddy Vijay Simha Reddy
 date: '2022-04-01'

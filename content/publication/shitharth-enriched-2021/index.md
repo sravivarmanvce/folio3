@@ -2,7 +2,7 @@
 title: An Enriched RPCO-BCNN Mechanisms for Attack Detection and Classification in
   SCADA Systems
 authors:
-- S. Shitharth
+- admin
 - Kantipudi Mvv Prasad
 - K. Sangeetha
 - Pravin R. Kshirsagar

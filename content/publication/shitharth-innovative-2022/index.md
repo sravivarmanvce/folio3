@@ -2,7 +2,7 @@
 title: An Innovative Perceptual Pigeon Galvanized Optimization (PPGO) Based Likelihood
   Naïve Bayes (LNB) Classification Approach for Network Intrusion Detection System
 authors:
-- S. Shitharth
+- admin
 - Pravin R. Kshirsagar
 - Praveen Kumar Balachandran
 - Khaled H. Alyoubi

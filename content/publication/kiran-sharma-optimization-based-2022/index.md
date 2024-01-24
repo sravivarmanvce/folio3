@@ -4,7 +4,7 @@ title: An optimization-based machine learning technique for smart home security 
 authors:
 - Vidhu Kiran Sharma
 - Srikanta Kumar Mohapatra
-- S Shitharth
+- admin
 - Saud Yonbawi
 - Ayman Yafoz
 - Sultan Alahmari

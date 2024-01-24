@@ -6,7 +6,7 @@ authors:
 - J. Divakaran
 - S. K. Prashanth
 - Gouse Baig Mohammad
-- Dr Shitharth
+- admin
 - Sachi Nandan Mohanty
 - C. Arvind
 - K. Srihari

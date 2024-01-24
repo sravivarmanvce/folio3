@@ -4,7 +4,7 @@ authors:
 - K Sudhakar
 - Boussaadi Smail
 - Tatireddy Subba Reddy
-- S Shitharth
+- admin
 - Diwakar Ramanuj Tripathi
 - Mochammad Fahlevi
 date: '2022-10-01'

@@ -8,7 +8,7 @@ authors:
 - Jonnala Ganesh Prasad Reddy
 - Sravanthy Gaddameedhi
 - Nagaraju Valluri
-- Shitharth Selvarajan
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-24T04:48:01.510385Z'
 publication_types:

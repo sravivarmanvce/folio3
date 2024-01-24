@@ -2,7 +2,7 @@
 title: Healthcare Data Security Using IoT Sensors Based on Random Hashing Mechanism
 authors:
 - Adil O. Khadidos
-- S. Shitharth
+- admin
 - Alaa O. Khadidos
 - K. Sangeetha
 - Khaled H. Alyoubi

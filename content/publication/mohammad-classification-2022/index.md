@@ -3,7 +3,7 @@ title: Classification of Normal and Anomalous Activities in a Network by Cascadi
   C4.5 Decision Tree and K-Means Clustering Algorithms
 authors:
 - Gouse Baig Mohammad
-- S. Shitharth
+- admin
 - P. Dileep
 date: '2022-01-01'
 publishDate: '2024-01-24T04:48:01.333540Z'

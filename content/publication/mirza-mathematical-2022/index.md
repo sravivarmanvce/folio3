@@ -5,7 +5,7 @@ authors:
 - Olfat M. Mirza
 - Hana Mujlid
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Gautam Srivastava
 - Muhammad Attique Khan
 date: '2022-11-01'

@@ -3,7 +3,7 @@ title: Mechanism of Internet of Things (IoT) Integrated with Radio Frequency Ide
   (RFID) Technology for Healthcare System
 authors:
 - Gouse Baig Mohammad
-- Shitharth Shitharth
+- admin
 - Salman Ali Syed
 - Raman Dugyala
 - K. Sreenivasa Rao

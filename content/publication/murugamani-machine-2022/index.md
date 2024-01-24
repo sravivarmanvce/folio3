@@ -3,7 +3,7 @@ title: Machine Learning Technique for Precision Agriculture Applications in 5G-B
   Internet of Things
 authors:
 - C. Murugamani
-- S. Shitharth
+- admin
 - S. Hemalatha
 - Pravin R. Kshirsagar
 - K. Riyazuddin

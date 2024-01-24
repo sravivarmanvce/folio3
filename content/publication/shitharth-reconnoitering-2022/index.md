@@ -2,7 +2,7 @@
 title: Reconnoitering the significance of security using multiple cloud environments
   for conveyance applications with blowfish algorithm
 authors:
-- S. Shitharth
+- admin
 - Fahad S. Alotaibi
 - Hariprasath Manoharan
 - Adil O. Khadidos

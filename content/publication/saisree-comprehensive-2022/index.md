@@ -2,7 +2,7 @@
 title: A Comprehensive Study on Eucalyptus, Open Stack and Cloud Stack
 authors:
 - S. Saisree
-- S. Shitharth
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-24T04:48:01.440435Z'
 publication_types:

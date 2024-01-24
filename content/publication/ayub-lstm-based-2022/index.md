@@ -4,7 +4,7 @@ title: LSTM-Based RNN Framework to Remove Motion Artifacts in Dynamic Multicontr
 authors:
 - Shahanaz Ayub
 - R. Jagadeesh Kannan
-- Shitharth S
+- admin
 - Raed Alsini
 - Tawfiq Hasanin
 - Choragudi Sasidhar

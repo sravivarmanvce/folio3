@@ -4,7 +4,7 @@ title: 'FogDedupe: A Fog-Centric Deduplication Approach Using Multi-Key Homomorp
 authors:
 - Mohamed Sirajudeen Yoosuf
 - C. Muralidharan
-- S. Shitharth
+- admin
 - Mohammed Alghamdi
 - Mohammed Maray
 - Osama Bassam J. Rabie

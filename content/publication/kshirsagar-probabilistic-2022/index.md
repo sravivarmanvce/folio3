@@ -4,7 +4,7 @@ title: Probabilistic Framework Allocation on Underwater Vehicular Systems Using 
 authors:
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan
-- S. Shitharth
+- admin
 - Abdulrhman M. Alshareef
 - Dilbag Singh
 - Heung-No Lee

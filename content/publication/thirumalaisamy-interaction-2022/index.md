@@ -4,7 +4,7 @@ title: Interaction of Secure Cloud Network and Crowd Computing for Smart City Da
 authors:
 - Manikandan Thirumalaisamy
 - Shajahan Basheer
-- Shitharth Selvarajan
+- admin
 - Sara A. Althubiti
 - Fayadh Alenezi
 - Gautam Srivastava

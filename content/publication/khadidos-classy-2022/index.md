@@ -4,7 +4,7 @@ title: A Classy Multifacet Clustering and Fused Optimization Based Classificatio
 authors:
 - Alaa O. Khadidos
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Adil O. Khadidos
 - Khaled H. Alyoubi
 - Ayman Yafoz

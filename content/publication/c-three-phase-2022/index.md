@@ -4,7 +4,7 @@ title: Three-phase service level agreements and trust management model for monit
 authors:
 - Muralidharan C
 - Mohamed Sirajudeen Y
-- Shitharth S
+- admin
 - Nawaf Alhebaishi
 - Rayan H. Mosli
 - Hassan Haes Alhelou

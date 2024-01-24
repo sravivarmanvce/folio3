@@ -4,7 +4,7 @@ title: A Radical Safety Measure for Identifying Environmental Changes Using Mach
 authors:
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Sara A. Althubiti
 - Fayadh Alenezi
 - Gautam Srivastava

@@ -8,7 +8,7 @@ authors:
 - V. Vinoth Kumar
 - Rajanikanth Aluvalu
 - V. Uma Maheswari
-- S. Shitharth
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-24T04:48:01.502637Z'
 publication_types:

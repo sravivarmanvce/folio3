@@ -2,7 +2,7 @@
 title: Optimal Feature Selection Based on Evolutionary Algorithm for Intrusion Detection
 authors:
 - S. K. Prashanth
-- S. Shitharth
+- admin
 - B. Praveen Kumar
 - V. Subedha
 - K. Sangeetha

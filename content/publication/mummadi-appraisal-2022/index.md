@@ -4,7 +4,7 @@ authors:
 - Akhilendranath Mummadi
 - B. Midhun Krishna Yadav
 - Rachamalla Sadhwika
-- S. Shitharth
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-24T04:48:01.478986Z'
 publication_types:

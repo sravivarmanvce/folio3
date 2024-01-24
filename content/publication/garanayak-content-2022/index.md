@@ -5,7 +5,7 @@ authors:
 - Suvendu Kumar Nayak
 - Sangeetha K
 - Tanupriya Choudhury
-- Shitharth S
+- admin
 date: '2022-10-01'
 publishDate: '2024-01-24T04:48:01.156031Z'
 publication_types:

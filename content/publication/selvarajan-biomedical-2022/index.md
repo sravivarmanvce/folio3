@@ -2,7 +2,7 @@
 title: Biomedical Signals for Healthcare Using Hadoop Infrastructure with Artificial
   Intelligence and Fuzzy Logic Interpretation
 authors:
-- Shitharth Selvarajan
+- admin
 - Hariprasath Manoharan
 - Tawfiq Hasanin
 - Raed Alsini

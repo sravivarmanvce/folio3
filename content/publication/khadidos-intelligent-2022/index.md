@@ -3,7 +3,7 @@ title: An Intelligent Security Framework Based on Collaborative Mutual Authentic
   Model for Smart City Networks
 authors:
 - Alaa O. Khadidos
-- S. Shitharth
+- admin
 - Hariprasath Manoharan
 - Ayman Yafoz
 - Adil O. Khadidos

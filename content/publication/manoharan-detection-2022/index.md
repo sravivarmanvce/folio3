@@ -3,7 +3,7 @@ title: Detection of superfluous in channels using data fusion with wireless sens
   and fuzzy interface algorithm
 authors:
 - Hariprasath Manoharan
-- S. Shitharth
+- admin
 - K. Sangeetha
 - B. Praveen Kumar
 - Mustapha Hedabou

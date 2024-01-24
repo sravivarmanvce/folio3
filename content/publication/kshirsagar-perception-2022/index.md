@@ -4,7 +4,7 @@ title: Perception Exploration on Robustness Syndromes With Pre-processing Entiti
 authors:
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Hassan A. Alterazi
 - Dilbag Singh
 - Heung-No Lee

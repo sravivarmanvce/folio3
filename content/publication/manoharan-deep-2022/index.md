@@ -3,7 +3,7 @@ title: Deep Conviction Systems for Biomedical Applications Using Intuiting Proce
   With Cross Point Approach
 authors:
 - Hariprasath Manoharan
-- Shitharth Selvarajan
+- admin
 - Ayman Yafoz
 - Hassan A. Alterazi
 - Mueen Uddin

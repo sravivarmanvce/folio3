@@ -3,7 +3,7 @@ title: Deep Learning Approaches for Prognosis of Automated Skin Disease
 authors:
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan
-- S. Shitharth
+- admin
 - Abdulrhman M. Alshareef
 - Nabeel Albishry
 - Praveen Kumar Balachandran

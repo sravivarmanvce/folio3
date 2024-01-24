@@ -3,7 +3,7 @@ title: A machine learning algorithm for classification of mental tasks
 authors:
 - Hariprasath Manoharan
 - Sulaima Lebbe Abdul Haleem
-- S. Shitharth
+- admin
 - Pravin R. Kshirsagar
 - Vineet Tirth
 - M. Thangamani
