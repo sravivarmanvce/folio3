@@ -3,7 +3,7 @@ title: Multiple Face Detection Using Haar - AdaBoosting, LBP-AdaBoosting and Neu
   Networks
 authors:
 - B. Thirumaleshwari Devi
-- S. Shitharth
+- admin
 date: '2021-01-01'
 publishDate: '2024-01-24T08:50:26.220287Z'
 publication_types:

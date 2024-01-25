@@ -2,7 +2,7 @@
 title: An Appraisal over Intrusion Detection Systems in Cloud Computing Security Attacks
 authors:
 - B. Thirumaleshwari Devi
-- S. Shitharth
+- admin
 - M A Jabbar
 date: '2020-03-01'
 publishDate: '2024-01-24T08:50:26.137625Z'

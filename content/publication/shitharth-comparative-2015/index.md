@@ -2,7 +2,7 @@
 title: A Comparative Analysis between Two Countermeasure Techniques to Detect DDoS
   with Sniffers in a SCADA Network
 authors:
-- S. Shitharth
+- admin
 - D. Prince Winston
 date: '2015-01-01'
 publishDate: '2024-01-24T08:50:26.110222Z'

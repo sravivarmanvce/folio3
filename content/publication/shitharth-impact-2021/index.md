@@ -2,7 +2,7 @@
 title: Impact of Big Data Analysis on Nanosensors for Applied Sciences Using Neural
   Networks
 authors:
-- S. Shitharth
+- admin
 - Pratiksha Meshram
 - Pravin R. Kshirsagar
 - Hariprasath Manoharan

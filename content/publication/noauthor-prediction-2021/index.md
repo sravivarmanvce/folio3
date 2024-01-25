@@ -1,7 +1,7 @@
 ---
 title: Prediction of COVID-19 Wide Spread in India using Time Series Forecasting Techniques
 authors:
-- 'S. Shitharth '
+- admin
 - 'Gouse Baig Mohammad '
 - Kadiyala Ramana
 - 'Vidhyacharan Bhaskar '

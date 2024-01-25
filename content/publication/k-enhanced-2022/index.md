@@ -2,7 +2,7 @@
 title: Enhanced SCADA IDS Security by Using MSOM Hybrid Unsupervised Algorithm
 authors:
 - Sangeetha K
-- Shitharth S
+- admin
 - Gouse Baig Mohammed
 date: '2022-03-01'
 publishDate: '2024-01-24T08:50:26.213318Z'

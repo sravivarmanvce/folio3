@@ -3,7 +3,7 @@ title: An Authentication Model with High Security for Cloud Database
 authors:
 - Krishna Keerthi Chennam
 - Rajanikanth Aluvalu
-- S. Shitharth
+- admin
 date: '2021-01-01'
 publishDate: '2024-01-24T08:50:26.190246Z'
 publication_types:

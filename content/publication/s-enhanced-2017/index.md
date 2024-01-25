@@ -1,7 +1,7 @@
 ---
 title: An enhanced optimization based algorithm for intrusion detection in SCADA network
 authors:
-- Shitharth S
+- admin
 - Prince Winston D
 date: '2017-09-01'
 publishDate: '2024-01-24T08:50:26.120775Z'

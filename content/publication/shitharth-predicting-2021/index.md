@@ -1,7 +1,7 @@
 ---
 title: Predicting Epidemic Outbreaks Using IOT, Artificial Intelligence and Cloud
 authors:
-- S. Shitharth
+- admin
 - Gouse Baig Mohammad
 - K. Sangeetha
 date: '2021-01-01'

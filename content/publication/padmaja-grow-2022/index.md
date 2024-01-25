@@ -2,7 +2,7 @@
 title: Grow of Artificial Intelligence to Challenge Security in IoT Application
 authors:
 - M. Padmaja
-- S. Shitharth
+- admin
 - K. Prasuna
 - Abhay Chaturvedi
 - Pravin R. Kshirsagar

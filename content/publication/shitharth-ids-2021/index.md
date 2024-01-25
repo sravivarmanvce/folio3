@@ -2,7 +2,7 @@
 title: IDS Detection Based on Optimization Based on WI-CS and GNN Algorithm in SCADA
   Network
 authors:
-- S. Shitharth
+- admin
 - N. Satheesh
 - B. Praveen Kumar
 - K. Sangeetha

@@ -2,7 +2,7 @@
 title: Mining of intrusion attack in SCADA network using clustering and genetically
   seeded flora-based optimal classification algorithm
 authors:
-- Shitharth Selvarajan
+- admin
 - Masood Shaik
 - Sirajudeen Ameerjohn
 - Sangeetha Kannan
