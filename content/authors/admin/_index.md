@@ -1,125 +1,76 @@
 ---
 # Display name
-title: Shitharth Selvarajan
+name: Khaleelulla Khan
 
-# Name pronunciation (optional)
-name_pronunciation:
-
-# Full name (for SEO)
-first_name: Shitharth
-last_name: Selvarajan
-
-# Status emoji
-status:
-  icon: ☕️
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Lecturer in Cyber Security
+# Role/position
+role: M.Sc Information and Communication Engineering
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Leeds Beckett University
-    url: https://www.leedsbeckett.ac.uk/
+- name: Technische Universität Darmstadt
+  url: "https://www.tu-darmstadt.de/index.en.jsp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Cyber Security, Blockchain, Critical Infrastructure & Systems, Network Security & Ethical Hacking.
+bio: Seeking opportunities in field of electronics with focus on hands-on product development, test and debug.
 
-# Interests to show in About widget
 interests:
-  - Cyber Security
-  - Blockchain Technology
-  - Critical Infrastructure & Systems
-  - Network Security 
-  - Ethical Hacking
-  - Cloud Computing
+- Analog / Mixed Signal Design
+- Embedded Hardware / Software Design
+- Python, C
+- Electronic Design and Prototyping
 
-# Education to show in About widget
 education:
   courses:
-#    - course: Post Doc in AI Security
-#      institution: University of Essex
-#      year: 2021
-    - course: PhD in Computer Science and Engineering
-      institution: Anna University
-      year: 2018
-    - course: Master of Business Administration (MBA) (Education Management - DE)
-      institution: Alagappa University
-      year: 2016
-    - course: ME in Computer Science and Engineering
-      institution: Anna University
-      year: 2014
-    - course: B.Tech in Infomration Technology
-      institution: Anna University
-      year: 2012
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: 
-    items:
-      - name: Python
-        description: ''
-        percent: 70
-        icon: python
-        icon_pack: fab
-      - name: Cyber Tools
-        description: ''
-        percent: 90
-        icon: shield-alt
-        icon_pack: fas
-  - name: 
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Blockchain
-        description: ''
-        percent: 80
-        icon: project-diagram
-        icon_pack: fas
-      - name: Hyper-ledger
-        description: ''
-        percent: 80
-        icon: atom
-        icon_pack: fas
-
+  - course: M.Sc in Information and Communication Engineering
+    institution: Technische Universität Darmstadt, Germany
+    year: 2016 - 2018
+  - course: BE in Electronics and Communication Engineering
+    institution: Visvesvaraya Technological University, India
+    year: 2009 - 2013
+ 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/shitharth
-#    label: Follow me on Twitter
-#    display:
-#      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=oEx_iL8AAAAJ
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-4931-724X
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/dr-shitharth-s-73457b166/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/itsmekhallu
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/khaleelkhan
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/khaleel-khan/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+- icon: cv
+  icon_pack: ai
+  link: "files/CV_Khan_Nazeer_overview.pdf"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+  
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Dr Shitharth completed his PhD in the Department of Computer Science & Engineering, Anna University. He completed his Postdoc at The University of Essex, Colchester, UK. He has worked in various institutions and has seven years of teaching experience.
+I am a Masters student recently graduated in ”Information and Communication Engineering” course at TU Darmstadt,Germany. I have a final grade of 1.78 in my Masters with a Thesis focusing on Analog CMOS design. Since I have finished my degree, I am currently looking for new opportunities and am available immediately. I have a varied hardware/ software development experience, I enjoy coding and solving difficult challenges.
 
-Dr Shitharth working as a lecturer in cyber security at Leeds Beckett University, Leeds, UK. He has published in more than 100 International Journals and 20 International & National conferences. He has published four patents in IPR. He is also an active member of IEEE Computer Society and five more professional bodies. He is also a member of the International Blockchain organization. He is a certified hyperledger expert and certified blockchain developer. His current research interests include Cyber Security, Blockchain, Critical Infrastructure & Systems, Network Security & Ethical Hacking. He is an active researcher, reviewer and editor for many international journals.
-{style="text-align: justify;"}
+You can download pdf versions of my CV from the Downloads bar on the top Menu. For questions or feedback, feel free to contact me using [Contacts](#contact) page (Linkedin preferred).
